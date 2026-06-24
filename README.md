@@ -1,10 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Muhammad+Ahmad;Full-Stack+.NET+%26+React+Developer;Clean+Architecture+%7C+CQRS+%7C+SaaS)
-
-</div>
-
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Muhammad+Ahmad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Arch+%7C+CQRS+%7C+SaaS&descAlignY=55&descSize=18)
 
 ### 🏆 DevArena 2026 Winner · Tech Lead @ LTS · .NET Developer @ Netrex Solutions
 
