@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmad0346913@gmail.com)
 
 </div>
----
 
 ## ⚡ About Me
 
@@ -17,12 +16,12 @@
 var ahmad = new Developer
 {
     Name         = "Muhammad Ahmad",
-    Location     = "Rawalpindi, Pakistan",
+    Location     = "Islmabad, Pakistan",
     CurrentRole  = new[] {
         "Tech Lead @ LTS — DevArena 2026 Champion 🏆",
         "Full-Stack .NET Developer @ Netrex Solutions"
     },
-    Education    = "BS Software Engineering — Gomal University (CGPA 3.86 / 4.00)",
+    Education    = "BS Software Engineering — Gomal University (CGPA 3.6 / 4.00)",
     Stack        = new[] { "ASP.NET Core", "React", "TypeScript", "PostgreSQL", "CQRS" },
     Architecture = new[] { "Clean Architecture", "CQRS/MediatR", "Vertical Slice" },
     OpenTo       = "Full-Time Onsite Roles — Islamabad / Rawalpindi"
