@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad+Ahmad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Arch+%7C+CQRS+%7C+SaaS&descAlignY=58&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad+Ahmad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Arch+%7C+CQRS+%7C+SaaS&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-0a6a10380)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad123975)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmad0346913@gmail.com)
 
 </div>
 
@@ -76,7 +76,7 @@ var ahmad = new Developer
 **Founder** &nbsp;`2026 – Present`
 
 - Freelance agency brand focused on SaaS and web platforms
-- Luxury real estate demo (Vercel) · Facebook content on JWT & Clean Arch
+- Luxury real estate demo (Vercel) · Content on JWT & Clean Architecture
 
 </td>
 </tr>
@@ -219,10 +219,11 @@ var ahmad = new Developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad123975&layout=compact&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad123975&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad123975&theme=tokyo-night&hide_border=true&area=true)
 
 ## 🌐 Connect With Me
 
@@ -230,8 +231,8 @@ var ahmad = new Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-ahmad-0a6a10380)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad123975-181717?style=for-the-badge&logo=github)](https://github.com/Ahmad123975)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmad0346913@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmad0346913@gmail.com)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
