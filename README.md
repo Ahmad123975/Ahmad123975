@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Muhammad+Ahmad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Arch+%7C+CQRS+%7C+SaaS&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Muhammad+Ahmad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Arch+%7C+CQRS+%7C+SaaS&descAlignY=55&descSize=18))
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Muhammad+Ahmad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+.NET+and+React+Developer+%7C+Clean+Arch+%7C+CQRS&descAlignY=55&descSize=18)
 
 ### 🏆 DevArena 2026 Winner · Tech Lead @ LTS · .NET Developer @ Netrex Solutions
 
@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmad0346913@gmail.com)
 
 </div>
-
 ---
 
 ## ⚡ About Me
