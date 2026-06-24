@@ -229,7 +229,7 @@ var ahmad = new Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-ahmad-0a6a10380)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad123975-181717?style=for-the-badge&logo=github)](https://github.com/Ahmad123975)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmad0346913@email.com)
 
 </div>
 
