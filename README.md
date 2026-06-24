@@ -222,6 +222,7 @@ var ahmad = new Developer
 </div>
 
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad123975&theme=tokyo-night&hide_border=true&area=true)
 
 ## 🌐 Connect With Me
 
