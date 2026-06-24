@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad+Ahmad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Arch+%7C+CQRS+%7C+SaaS&descAlignY=58&descSize=18" width="100%"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Muhammad+Ahmad;Full-Stack+.NET+%26+React+Developer;Clean+Architecture+%7C+CQRS+%7C+SaaS)
 
 </div>
 
@@ -234,5 +234,3 @@ var ahmad = new Developer
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmad0346913@gmail.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
