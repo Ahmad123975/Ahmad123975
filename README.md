@@ -12,6 +12,7 @@
 
 ## ⚡ About Me
 
+```cs
 var ahmad = new Developer
 {
     Name         = "Muhammad Ahmad",
@@ -25,9 +26,7 @@ var ahmad = new Developer
     Architecture = new[] { "Clean Architecture", "CQRS/MediatR", "Vertical Slice" },
     OpenTo       = "Full-Time Onsite Roles — Islamabad / Rawalpindi"
 };
-
-
----
+```
 
 ## 💼 Experience
 
