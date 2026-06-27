@@ -12,7 +12,6 @@
 
 ## ⚡ About Me
 
-```cs
 var ahmad = new Developer
 {
     Name         = "Muhammad Ahmad",
@@ -230,6 +229,3 @@ var ahmad = new Developer
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmad0346913@gmail.com)
 
 </div>
-```
-
-Copy karo, GitHub pe `Ahmad123975/Ahmad123975` repo ka README.md replace karo. Streak card GitHub Stats ke baad aa jayega automatically.
