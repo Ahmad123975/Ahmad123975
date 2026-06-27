@@ -16,17 +16,17 @@
 var ahmad = new Developer
 {
     Name         = "Muhammad Ahmad",
-    Location     = "Islmabad, Pakistan",
+    Location     = "Islamabad, Pakistan",
     CurrentRole  = new[] {
         "Tech Lead @ LTS — DevArena 2026 Champion 🏆",
         "Full-Stack .NET Developer @ Netrex Solutions"
     },
-    Education    = "BS Software Engineering — Gomal University (CGPA 3.6 / 4.00)",
+    Education    = "BS Software Engineering — Gomal University (CGPA 3.86 / 4.00)",
     Stack        = new[] { "ASP.NET Core", "React", "TypeScript", "PostgreSQL", "CQRS" },
     Architecture = new[] { "Clean Architecture", "CQRS/MediatR", "Vertical Slice" },
     OpenTo       = "Full-Time Onsite Roles — Islamabad / Rawalpindi"
 };
-```
+` ` `
 
 ---
 
@@ -211,6 +211,8 @@ var ahmad = new Developer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad123975&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad123975&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad123975&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad123975&theme=tokyo-night&hide_border=true&area=true)
@@ -228,3 +230,6 @@ var ahmad = new Developer
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmad0346913@gmail.com)
 
 </div>
+```
+
+Copy karo, GitHub pe `Ahmad123975/Ahmad123975` repo ka README.md replace karo. Streak card GitHub Stats ke baad aa jayega automatically.
