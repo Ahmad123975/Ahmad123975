@@ -21,7 +21,7 @@ var ahmad = new Developer
         "Tech Lead @ LTS — DevArena 2026 Champion 🏆",
         "Full-Stack .NET Developer @ Netrex Solutions"
     },
-    Education    = "BS Software Engineering — Gomal University (CGPA 3.86 / 4.00)",
+    Education    = "BS Software Engineering — Gomal University (CGPA 3.6 / 4.00)",
     Stack        = new[] { "ASP.NET Core", "React", "TypeScript", "PostgreSQL", "CQRS" },
     Architecture = new[] { "Clean Architecture", "CQRS/MediatR", "Vertical Slice" },
     OpenTo       = "Full-Time Onsite Roles — Islamabad / Rawalpindi"
