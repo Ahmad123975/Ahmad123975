@@ -61,7 +61,7 @@ var ahmad = new Developer
 **Full Stack Track — Rapid Render Clan** &nbsp;`Jun 2026 – Present` &nbsp;| &nbsp;Remote
 
 - Advanced engineering practices: system design, DSA, AI integration
-- Frontend assessment: Habit Tracker in **React / TypeScript**
+- Frontend assessment: [Habit Tracker](https://github.com/Ahmad123975/habit-tracker) in **React / TypeScript**
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ var ahmad = new Developer
 **Founder** &nbsp;`2026 – Present`
 
 - Freelance agency brand focused on SaaS and web platforms
-- Luxury real estate demo (Vercel) · Content on JWT & Clean Architecture
+- [Luxury Real Estate Landing Page](https://github.com/Ahmad123975/luxury-realestate-page) (Vercel) · Content on JWT & Clean Architecture
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ var ahmad = new Developer
 - ⚛️ React · TypeScript · TanStack Query · Bootstrap
 - 💳 EasyPaisa/JazzCash · Cloudinary · FluentValidation
 
-🔗 [API](#) · 🔗 [Client](#)
+🔗 API (team repo) · 🔗 Client (team repo)
 
 </td>
 <td width="50%" valign="top">
@@ -114,11 +114,27 @@ var ahmad = new Developer
 - 📸 Photo upload and user matching system
 - 🗄️ EF Core · SQL Server
 
-🔗 [GitHub](#)
+🔗 [API](https://github.com/Ahmad123975/DatingApi) · 🔗 [Client](https://github.com/Ahmad123975/DatingApp-Client)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 📝 Blog Project (LuminaLog)
+*Blog Content Management System*
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+- Scalable CMS built with Clean Architecture & Repository Pattern
+- JWT authentication with custom `AuthStateProvider`, Serilog, EF Core
+- Full CRUD for blog posts, comments, and reactions
+
+🔗 [Backend](https://github.com/Ahmad123975/BlogProject) · 🔗 [UI](https://github.com/Ahmad123975/Blog_Project_UI)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🛒 Netrix E-Commerce Platform
@@ -131,9 +147,11 @@ var ahmad = new Developer
 - Clean Architecture · JWT · FluentValidation
 - PostgreSQL live on Render · Cloudinary integration
 
-🔗 [Backend](#) · 🔗 [Frontend](#)
+🔗 Backend (team repo) · 🔗 Frontend (team repo)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📋 Online Complaint Management System
@@ -146,11 +164,9 @@ var ahmad = new Developer
 - EF Core for data access; jQuery for real-time UI updates
 - Admin workflow for complaint status tracking & resolution
 
-🔗 [GitHub](#)
+🔗 [GitHub](https://github.com/Ahmad123975/OCMS)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏫 School Management System
@@ -161,9 +177,11 @@ var ahmad = new Developer
 - Student enrollment, staff records, fee tracking, scheduling
 - All DB operations via ADO.NET with stored procedures
 
-🔗 [GitHub](#)
+🔗 [GitHub](https://github.com/Ahmad123975/SchoolManagmentSystemMVC)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📋 Student Project Allocation System
@@ -174,7 +192,10 @@ var ahmad = new Developer
 - Greedy algorithm for optimal project-student matching
 - Admin panel for allocation management
 
-🔗 [GitHub](#)
+🔗 [GitHub](https://github.com/Ahmad123975/ProjectAllocationSystem)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
