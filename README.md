@@ -97,7 +97,7 @@ var ahmad = new Developer
 - ⚛️ React · TypeScript · TanStack Query · Bootstrap
 - 💳 EasyPaisa/JazzCash · Cloudinary · FluentValidation
 
-🔗 API (team repo) · 🔗 Client (team repo)
+🔗 API (https://github.com/fayaz921/LTS-API) · 🔗 Client (team repo)
 
 </td>
 <td width="50%" valign="top">
