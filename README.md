@@ -97,7 +97,7 @@ var ahmad = new Developer
 - ⚛️ React · TypeScript · TanStack Query · Bootstrap
 - 💳 EasyPaisa/JazzCash · Cloudinary · FluentValidation
 
-🔗 API (https://github.com/fayaz921/LTS-API) · 🔗 Client (team repo)
+🔗 [API](https://github.com/fayaz921/LTS-API) · 🔗 [Client](https://github.com/fayaz921/LTS-Client)
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +147,7 @@ var ahmad = new Developer
 - Clean Architecture · JWT · FluentValidation
 - PostgreSQL live on Render · Cloudinary integration
 
-🔗 Backend (team repo) · 🔗 Frontend (team repo)
+🔗 [Backend](https://github.com/Asim-AKM/Netrex_ECommerce) · 🔗 [Frontend](https://github.com/Asim-AKM/Netrex_ECommerce_Frontend)
 
 </td>
 </tr>
