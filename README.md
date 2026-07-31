@@ -1,190 +1,205 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Muhammad+Ahmad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+.NET+and+React+Developer+%7C+Clean+Arch+%7C+CQRS&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Muhammad+Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Architecture+%7C+CQRS&descAlignY=55&descSize=17)
 
-### 🏆 DevArena 2026 Winner · Tech Lead @ LTS · Full-Stack .NET Developer
+**AWS DevArena 2026 Winner** &nbsp;·&nbsp; Software Engineering Intern (.NET & React) @ 10Pearls &nbsp;·&nbsp; Tech Lead @ LTS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-0a6a10380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-0a6a10380)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad123975)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmad0346913@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmadcs12@gmail.com)
 
 </div>
 
-## ⚡ About Me
+## About Me
 
 ```cs
 var ahmad = new Developer
 {
     Name         = "Muhammad Ahmad",
     Location     = "Islamabad, Pakistan",
+    CurrentRole  = "Software Engineering Intern (.NET & React) @ 10Pearls",
     CurrentFocus = new[] {
-        "Tech Lead @ LTS — DevArena 2026 Champion 🏆",
-        "Dev Weekends Fellowship 2026 — Full Stack Track"
+        "Tech Lead — Litigation Tracking System (AWS DevArena 2026 Winner)",
+        "Dev Weekends Fellowship 2026 — Full Stack Track",
+        "Founder — AhmadDev Studio"
     },
-    Education    = "BS Software Engineering — Gomal University (CGPA 3.6 / 4.00)",
-    Stack        = new[] { "ASP.NET Core", "React", "TypeScript", "PostgreSQL", "CQRS" },
-    Architecture = new[] { "Clean Architecture", "CQRS/MediatR", "Vertical Slice" },
-    AiTools      = new[] { "GitHub Copilot", "Cursor", "Claude", "Antigravity" },
+    Education    = "BS Software Engineering — Gomal University (CGPA 3.60 / 4.00)",
+    Stack        = new[] { "ASP.NET Core", "React", "TypeScript", "PostgreSQL", "SQL Server", "CQRS" },
+    Architecture = new[] { "Clean Architecture", "Vertical Slice Architecture", "CQRS/MediatR" },
+    AiTools      = new[] { "GitHub Copilot", "Cursor", "Claude" },
     OpenTo       = "Full-Time Onsite Roles — Islamabad / Rawalpindi"
 };
 ```
 
-## 💼 Experience
+## Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 Netrix Solutions
-**Full-Stack .NET Developer** &nbsp;`Jun 2025 – Mar 2026` &nbsp;| &nbsp;Onsite
+### 10Pearls
+**Software Engineering Intern (.NET & React)** &nbsp;`Jun 2026 – Present` &nbsp;|&nbsp; Remote
 
-- Built web apps & RESTful APIs with **ASP.NET Core, MVC, Web API**, JWT auth, and role-based access control
-- Applied **Clean Architecture** and **Vertical Slice + CQRS** using SQL Server, PostgreSQL, and EF Core
-- Built frontend components with **Blazor, React**; built Windows Forms apps to automate internal workflows
-- Performed Unit & Integration Testing on APIs, resolved bugs through systematic debugging
+- Developing full-stack web applications using **ASP.NET Core, React**, and RESTful APIs in an Agile environment
+- Implementing scalable, secure features following industry-standard engineering practices
+- Collaborating through Git-based workflows, code reviews, and Agile ceremonies
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 FutureXcel
-**Full-Stack .NET Developer Intern** &nbsp;`Jan 2025` &nbsp;| &nbsp;Remote
+### Netrix Solutions
+**Full-Stack .NET Developer** &nbsp;`Jun 2025 – Mar 2026` &nbsp;|&nbsp; Onsite
 
-- Built fullstack application with JWT auth and role-based **Admin & User Panel** using ASP.NET Core and Blazor
-- Contributed to a remote team, following industry best practices and clean code principles
+- Built web apps and RESTful APIs with **ASP.NET Core, MVC, Web API**, JWT auth, and role-based access control
+- Applied **Clean Architecture** and **Vertical Slice + CQRS** with SQL Server, PostgreSQL, and EF Core
+- Built frontend components with **Blazor, React, Angular**; automated internal workflows with Windows Forms
+- Performed unit and integration testing on APIs
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 Dev Weekends Fellowship 2026
-**Full Stack Track — Rapid Render Clan** &nbsp;`Jun 2026 – Present` &nbsp;| &nbsp;Remote
+### FutureXcel
+**Full-Stack .NET Developer Intern** &nbsp;`Jan 2025` &nbsp;|&nbsp; Remote
 
-- Advanced engineering practices: system design, DSA, AI integration
-- Frontend assessment: [Habit Tracker](https://github.com/Ahmad123975/habit-tracker) in **React / TypeScript**
+- Built a full-stack application with JWT auth and role-based Admin/User panels using ASP.NET Core and Blazor
+- Contributed to a remote team following industry best practices and clean code principles
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 AhmadDev Studio
-**Founder** &nbsp;`2026 – Present`
+### Dev Weekends Fellowship 2026
+**Full Stack Track — Rapid Render Clan** &nbsp;`Jun 2026 – Present` &nbsp;|&nbsp; Remote
 
-- Freelance agency brand focused on SaaS and web platforms
-- [Luxury Real Estate Landing Page](https://github.com/Ahmad123975/luxury-realestate-page) (Vercel) · Content on JWT & Clean Architecture
+- Strengthening system design, DSA, and AI integration skills
+- Frontend assessment: [Habit Tracker](https://github.com/Ahmad123975/habit-tracker) built in React/TypeScript
 
 </td>
 </tr>
 </table>
 
+### AhmadDev Studio — Founder `2026 – Present`
+Freelance studio brand focused on SaaS and web platforms. Built the [Luxury Real Estate Landing Page](https://github.com/Ahmad123975/luxury-realestate-page) (deployed on Vercel) and shares content on JWT auth and Clean Architecture.
+
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ Litigation Tracking System (LTS)
+### Litigation Tracking System (LTS)
 *Multi-Tenant SaaS Platform for Law Firms*
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React+TS-61DAFB?style=flat&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-- 🏆 **DevArena 2026 — 1st Place**
-- 🧱 Tech Lead — Clean Architecture + CQRS/MediatR
-- 🔐 JWT with HttpOnly refresh token cookies
-- ⚛️ React · TypeScript · TanStack Query · Bootstrap
-- 💳 EasyPaisa/JazzCash · Cloudinary · FluentValidation
+- **AWS DevArena 2026 — 1st Place**, Tech Lead of a 7-member team
+- Vertical Slice Architecture + CQRS/MediatR, FluentValidation, Hangfire
+- JWT auth with HttpOnly refresh-token cookies, RBAC, SuperAdmin dashboard
+- React, TypeScript, TanStack Query, Bootstrap; PostgreSQL (Neon), Cloudinary, EasyPaisa/JazzCash payments
 
-🔗 [API](https://github.com/fayaz921/LTS-API) · 🔗 [Client](https://github.com/fayaz921/LTS-Client)
+🔗 [API](https://github.com/fayaz921/LTS-API) · [Client](https://github.com/fayaz921/LTS-Client)
 
 </td>
 <td width="50%" valign="top">
 
-### 💘 Dating App
+### CutBaground
+*AI-Powered Background Removal SaaS*
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+- Founder & full-stack developer — Next.js/React/TypeScript/Tailwind frontend, ASP.NET Core Web API backend
+- AI-powered background removal pipeline with Cloudinary media storage and JazzCash billing
+- Architected for upcoming AI image editing, subscriptions, and multi-user workspaces
+
+🔗 [Frontend](https://github.com/Ahmad123975) · [Backend](https://github.com/Ahmad123975)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Dating App
 *Real-Time Matchmaking Platform*
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-0078D7?style=flat&logo=microsoft&logoColor=white)
 
-- 🔴 Real-time messaging with **SignalR**
-- 🔐 JWT authentication · Role-based access
-- 📸 Photo upload and user matching system
-- 🗄️ EF Core · SQL Server
+- Real-time messaging with SignalR, JWT auth, role-based access
+- Photo upload and user-matching system; EF Core, SQL Server
 
-🔗 [API](https://github.com/Ahmad123975/DatingApi) · 🔗 [Client](https://github.com/Ahmad123975/DatingApp-Client)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Blog Project (LuminaLog)
-*Blog Content Management System*
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-- Scalable CMS built with Clean Architecture & Repository Pattern
-- JWT authentication with custom `AuthStateProvider`, Serilog, EF Core
-- Full CRUD for blog posts, comments, and reactions
-
-🔗 [Backend](https://github.com/Ahmad123975/BlogProject) · 🔗 [UI](https://github.com/Ahmad123975/Blog_Project_UI)
+🔗 [API](https://github.com/Ahmad123975/DatingApi) · [Client](https://github.com/Ahmad123975/DatingApp-Client)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Netrix E-Commerce Platform
+### Netrix E-Commerce Platform
 *Multi-Module E-Commerce System*
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 
-- Owned **User Management & Seller modules** end-to-end
-- Clean Architecture · JWT · FluentValidation
-- PostgreSQL live on Render · Cloudinary integration
+- Owned Cart and Order modules end-to-end: shopping cart, order processing, business workflows
+- Clean Architecture, JWT, FluentValidation; PostgreSQL live on Render, Cloudinary integration
 
-🔗 [Backend](https://github.com/Asim-AKM/Netrex_ECommerce) · 🔗 [Frontend](https://github.com/Asim-AKM/Netrex_ECommerce_Frontend)
+🔗 [Backend](https://github.com/Asim-AKM/Netrex_ECommerce) · [Frontend](https://github.com/Asim-AKM/Netrex_ECommerce_Frontend)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 Online Complaint Management System
+### Blog Project (LuminaLog)
+*Blog Content Management System*
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+
+- Scalable CMS built with Clean Architecture and Repository Pattern
+- JWT auth with custom `AuthStateProvider`, Serilog, EF Core; full CRUD for posts, comments, reactions
+
+🔗 [Backend](https://github.com/Ahmad123975/BlogProject) · [UI](https://github.com/Ahmad123975/Blog_Project_UI)
+
+</td>
+<td width="50%" valign="top">
+
+### Online Complaint Management System
 *ASP.NET MVC · JWT · RBAC*
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-- JWT-based auth and role-based access for user & admin
-- EF Core for data access; jQuery for real-time UI updates
-- Admin workflow for complaint status tracking & resolution
+- JWT-based auth and role-based access for user and admin
+- EF Core for data access; jQuery for real-time UI updates and admin resolution workflow
 
 🔗 [GitHub](https://github.com/Ahmad123975/OCMS)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏫 School Management System
-*Desktop App · ADO.NET*
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-
-- Student enrollment, staff records, fee tracking, scheduling
-- All DB operations via ADO.NET with stored procedures
-
-🔗 [GitHub](https://github.com/Ahmad123975/SchoolManagmentSystemMVC)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 Student Project Allocation System
+### School Management System
+*Desktop App · ADO.NET*
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+- Student enrollment, staff records, fee tracking, and scheduling
+- All DB operations via ADO.NET with stored procedures
+
+🔗 [GitHub](https://github.com/Ahmad123975/SchoolManagmentSystemMVC)
+
+</td>
+<td width="50%" valign="top">
+
+### Student Project Allocation System
 *Algorithm-Based Academic Tool*
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -195,15 +210,12 @@ var ahmad = new Developer
 🔗 [GitHub](https://github.com/Ahmad123975/ProjectAllocationSystem)
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -224,9 +236,9 @@ var ahmad = new Developer
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Databases & Tools**
 
@@ -247,24 +259,23 @@ var ahmad = new Developer
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎓 Certifications
+## Certifications & Awards
 
-| Certificate | Issuer | Year |
+| Achievement | Issuer | Year |
 |---|---|---|
-| 🥇 DevArena Hackathon — 1st Place | Gomal University | 2026 |
-| 📜 Dev Weekends Fellowship — Full Stack Track | Dev Weekends | 2026 |
-| 📜 Advance Web Application Development — Grade A | NAVTTC, Govt. of Pakistan | 2026 |
-| 📜 Web Development | UET Peshawar / KP-RETP | 2025 |
+| 🥇 AWS DevArena Hackathon — 1st Place | AWS / Gomal University | 2026 |
+| Dev Weekends Fellowship — Full Stack Track | Dev Weekends | 2026 |
+| Advance Web Application Development — Grade A | NAVTTC, Govt. of Pakistan | 2026 |
+| Web Development | UET Peshawar / KP-RETP | 2025 |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -280,12 +291,10 @@ var ahmad = new Developer
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-ahmad-0a6a10380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-0a6a10380)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad123975-181717?style=for-the-badge&logo=github)](https://github.com/Ahmad123975)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmad0346913@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadahmadcs12@gmail.com)
 
 </div>
