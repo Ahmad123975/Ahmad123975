@@ -1,15 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Muhammad+Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack+.NET+%26+React+Developer+%7C+Clean+Architecture+%7C+CQRS&descAlignY=55&descSize=17)
+# Muhammad Ahmad
 
-**AWS DevArena 2026 Winner** &nbsp;·&nbsp; Software Engineering Intern (.NET & React) @ 10Pearls &nbsp;·&nbsp; Tech Lead @ LTS
+**AWS DevArena 2026 Winner** &nbsp;·&nbsp; **Software Engineering Intern (.NET & React)** @ 10Pearls &nbsp;·&nbsp; **Tech Lead** @ LTS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-0a6a10380)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad123975)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmadcs12@gmail.com)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-0a6a10380)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad123975)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmadcs12@gmail.com)
 
 </div>
-
 ## About Me
 
 ```cs
