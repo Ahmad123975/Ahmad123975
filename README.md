@@ -31,6 +31,8 @@ var ahmad = new Developer
 };
 ```
 
+I actively build production projects using AI-assisted development workflows — **GitHub Copilot, Cursor, Claude, Gemini, Antigravity, Lovable, and Trae** — to design, code, debug, and ship full-stack applications faster while maintaining clean architecture and code quality.
+
 ## Experience
 
 <table>
