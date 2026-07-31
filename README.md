@@ -26,7 +26,7 @@ var ahmad = new Developer
     Education    = "BS Software Engineering — Gomal University (CGPA 3.60 / 4.00)",
     Stack        = new[] { "ASP.NET Core", "React", "TypeScript", "PostgreSQL", "SQL Server", "CQRS" },
     Architecture = new[] { "Clean Architecture", "Vertical Slice Architecture", "CQRS/MediatR" },
-    AiTools      = new[] { "GitHub Copilot", "Cursor", "Claude" },
+    AiTools      = new[] { "GitHub Copilot", "Cursor", "Claude", "Antigravity", "Lovable", "Trae", "Gemini" },
     OpenTo       = "Full-Time Onsite Roles — Islamabad / Rawalpindi"
 };
 ```
@@ -80,7 +80,7 @@ var ahmad = new Developer
 </table>
 
 ### AhmadDev Studio — Founder `2026 – Present`
-Freelance studio brand focused on SaaS and web platforms. Built the [Luxury Real Estate Landing Page](https://github.com/Ahmad123975/luxury-realestate-page) (deployed on Vercel) and shares content on JWT auth and Clean Architecture.
+Independent software studio delivering SaaS and web platforms for clients, combining Clean Architecture and modern full-stack engineering practices. Shipped a production Luxury Real Estate Landing Page (live on Vercel) and publishes technical content on JWT authentication and Clean Architecture design.
 
 ---
 
@@ -259,6 +259,12 @@ Freelance studio brand focused on SaaS and web platforms. Built the [Luxury Real
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-FF66C4?style=for-the-badge)
+![Trae](https://img.shields.io/badge/Trae-000000?style=for-the-badge)
+
+*Comfortable building full projects end-to-end using AI-assisted development workflows across these tools.*
 
 </div>
 
