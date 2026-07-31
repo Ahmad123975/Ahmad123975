@@ -1,8 +1,10 @@
 <div align="center">
 
-# Muhammad Ahmad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Muhammad%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20.NET%20%26%20React%20Developer%20%7C%20Clean%20Architecture%20%7C%20CQRS&descAlignY=55&descSize=17" width="100%" alt="Header" />
 
-**AWS DevArena 2026 Winner** &nbsp;·&nbsp; **Software Engineering Intern (.NET & React)** @ 10Pearls &nbsp;·&nbsp; **Tech Lead** @ LTS
+<br />
+
+**AWS DevArena 2026 Winner** &nbsp;·&nbsp; Software Engineering Intern (.NET & React) @ 10Pearls &nbsp;·&nbsp; Tech Lead @ LTS
 
 <br />
 
