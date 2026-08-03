@@ -63,7 +63,7 @@ I actively build production projects using AI-assisted development workflows —
 <td width="50%" valign="top">
 
 ### FutureXcel
-**Full-Stack .NET Developer Intern** &nbsp;`Jan 2025` &nbsp;|&nbsp; Remote
+**Full-Stack .NET Developer Intern** &nbsp;`Feb 2026` &nbsp;|&nbsp; Remote
 
 - Built a full-stack application with JWT auth and role-based Admin/User panels using ASP.NET Core and Blazor
 - Contributed to a remote team following industry best practices and clean code principles
@@ -72,7 +72,7 @@ I actively build production projects using AI-assisted development workflows —
 <td width="50%" valign="top">
 
 ### Dev Weekends Fellowship 2026
-**Full Stack Track — Rapid Render Clan** &nbsp;`Jun 2026 – Present` &nbsp;|&nbsp; Remote
+**Full Stack Track — Rapid Render Clan** &nbsp;`March 2026` &nbsp;|&nbsp; Remote
 
 - Strengthening system design, DSA, and AI integration skills
 - Frontend assessment: [Habit Tracker](https://github.com/Ahmad123975/habit-tracker) built in React/TypeScript
